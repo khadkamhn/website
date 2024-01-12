@@ -1,0 +1,25 @@
+{
+	"name": "Mohan Khadka",
+	"short_name": "Mohan Khadka",
+	"display": "standalone",
+	"theme_color": "#4e342e",
+	"background_color": "#4e342e",
+	"description": "A Front-End Developer",
+	"icons": [
+		{
+		  "src": "/icon-alt.svg",
+		  "sizes": "any",
+		  "type": "image/svg+xml"
+		},
+		{
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+	]
+}
