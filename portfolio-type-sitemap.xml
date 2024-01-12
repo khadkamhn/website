@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://static.com.np/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mohankhadka.com.np/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://static.com.np/portfolio/app/</loc>
+		<loc>https://mohankhadka.com.np/portfolio/app/</loc>
 		<lastmod>2016-07-29T18:31:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/portfolio/card/</loc>
+		<loc>https://mohankhadka.com.np/portfolio/card/</loc>
 		<lastmod>2016-07-29T11:20:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/portfolio/logo/</loc>
+		<loc>https://mohankhadka.com.np/portfolio/logo/</loc>
 		<lastmod>2018-02-10T21:20:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/portfolio/web/</loc>
+		<loc>https://mohankhadka.com.np/portfolio/web/</loc>
 		<lastmod>2018-05-02T01:34:02+00:00</lastmod>
 	</url>
 </urlset>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://static.com.np/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mohankhadka.com.np/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://static.com.np/</loc>
+		<loc>https://mohankhadka.com.np/</loc>
 		<lastmod>2016-07-27T09:20:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/about-me/</loc>
+		<loc>https://mohankhadka.com.np/about-me/</loc>
 		<lastmod>2016-07-20T10:46:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/resume/</loc>
+		<loc>https://mohankhadka.com.np/resume/</loc>
 		<lastmod>2016-07-22T03:28:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/contact/</loc>
+		<loc>https://mohankhadka.com.np/contact/</loc>
 		<lastmod>2016-07-22T03:29:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.com.np/portfolio/</loc>
+		<loc>https://mohankhadka.com.np/portfolio/</loc>
 		<lastmod>2024-01-12T19:02:02+00:00</lastmod>
 	</url>
 </urlset>

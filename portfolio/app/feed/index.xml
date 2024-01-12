@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Application Archives - Mohan Khadka - A Front-End Developer</title>
-	<atom:link href="https://static.com.np/portfolio/app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://static.com.np/portfolio/app/</link>
+	<atom:link href="https://mohankhadka.com.np/portfolio/app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mohankhadka.com.np/portfolio/app/</link>
 	<description>Frontend Developer from Nepal, CSS Developer, Web Developer, Freelancer from Nepal, Front-end Developer, CSS Programmer from Kathmandu Nepal</description>
 	<lastBuildDate>Fri, 29 Jul 2016 18:31:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 	
 	<item>
 		<title>Kitab Club Mobile App</title>
-		<link>https://static.com.np/portfolio/app/kitab-club-mobile-app/</link>
+		<link>https://mohankhadka.com.np/portfolio/app/kitab-club-mobile-app/</link>
 		
 		<dc:creator><![CDATA[mohan]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2016 18:31:23 +0000</pubDate>
 				<guid isPermaLink="false">http://localhost:8080/mhn/wordpress/?post_type=portfolio&#038;p=69</guid>
 
 					<description><![CDATA[<p>KitabClub mobile app is also hybrid mobile application that was compiled with phonegap. In this app We have used CSS3, HTML5, cordova etc. Tool/Resource Kendo UI Mobile jQuery PhoneGap Cordova SQL Server 2008 ASP.NET Web API ASP.NET MVC 3 ASP.NET WinForms</p>
-<p>The post <a href="https://static.com.np/portfolio/app/kitab-club-mobile-app/">Kitab Club Mobile App</a> appeared first on <a href="https://static.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
+<p>The post <a href="https://mohankhadka.com.np/portfolio/app/kitab-club-mobile-app/">Kitab Club Mobile App</a> appeared first on <a href="https://mohankhadka.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>KitabClub mobile app is also hybrid mobile application that was compiled with phonegap<span id="more-69"></span>. In this app We have used CSS3, HTML5, cordova etc.</p>
 <div class="tool-resource">
@@ -42,7 +42,7 @@
 <div class="t-r tr-asp-mvc" title="ASP.NET MVC 3">ASP.NET MVC 3</div>
 <div class="t-r tr-asp-form" title="ASP.NET WinForms">ASP.NET WinForms</div>
 </div>
-<p>The post <a href="https://static.com.np/portfolio/app/kitab-club-mobile-app/">Kitab Club Mobile App</a> appeared first on <a href="https://static.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
+<p>The post <a href="https://mohankhadka.com.np/portfolio/app/kitab-club-mobile-app/">Kitab Club Mobile App</a> appeared first on <a href="https://mohankhadka.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -50,14 +50,14 @@
 			</item>
 		<item>
 		<title>DishHome Mobile App</title>
-		<link>https://static.com.np/portfolio/app/dishhome-mobile-app/</link>
+		<link>https://mohankhadka.com.np/portfolio/app/dishhome-mobile-app/</link>
 		
 		<dc:creator><![CDATA[mohan]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2016 17:33:29 +0000</pubDate>
 				<guid isPermaLink="false">http://localhost:8080/mhn/wordpress/?post_type=portfolio&#038;p=67</guid>
 
 					<description><![CDATA[<p>DishHome mobile app is my first hybrid mobile application that was compiled with phonegap. In this app We have used CSS3, HTML5, cordova etc. Tool/Resource Kendo UI Mobile jQuery JavaScript PhoneGap Cordova Visit App</p>
-<p>The post <a href="https://static.com.np/portfolio/app/dishhome-mobile-app/">DishHome Mobile App</a> appeared first on <a href="https://static.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
+<p>The post <a href="https://mohankhadka.com.np/portfolio/app/dishhome-mobile-app/">DishHome Mobile App</a> appeared first on <a href="https://mohankhadka.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>DishHome mobile app is my first hybrid mobile application that was compiled with phonegap<span id="more-67"></span>. In this app We have used CSS3, HTML5, cordova etc.</p>
 <div class="tool-resource">
@@ -69,7 +69,7 @@
 <div class="t-r tr-cdova" title="Cordova">Cordova</div>
 </div>
 <p><a class="btn btn-default" href="https://play.google.com/store/apps/details?id=com.exolutus.dishhome" target="_blank" rel="noopener">Visit App</a></p>
-<p>The post <a href="https://static.com.np/portfolio/app/dishhome-mobile-app/">DishHome Mobile App</a> appeared first on <a href="https://static.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
+<p>The post <a href="https://mohankhadka.com.np/portfolio/app/dishhome-mobile-app/">DishHome Mobile App</a> appeared first on <a href="https://mohankhadka.com.np/">Mohan Khadka - A Front-End Developer</a>.</p>
 ]]></content:encoded>
 					
 		
