@@ -1,91 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mohankhadka.com.np/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://mohankhadka.com.np/portfolio/%portfolio-type%/</loc>
-		<lastmod>2018-05-02T01:34:02+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://mohankhadka.com.np/portfolio/card/privilege-card-for-sherpa-adventure-outlet-pvt-ltd/</loc>
 		<lastmod>2016-07-28T03:38:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/privilege-card-sherpa-adventure-outlet-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/privilege-card-sherpa-adventure-outlet-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/card/id-card-for-avionte/</loc>
 		<lastmod>2016-07-28T05:59:10+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/id-card-avionte-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/id-card-avionte-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/web/solutions-consultant-website/</loc>
 		<lastmod>2016-07-28T08:02:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/solutions-consultant-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/solutions-consultant-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/card/business-card-for-solutions-consultant/</loc>
 		<lastmod>2016-07-29T11:20:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/business-card-for-solutions-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/business-card-for-solutions-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/app/dishhome-mobile-app/</loc>
 		<lastmod>2016-07-29T17:33:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/dish-home-mobile-app-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/dish-home-mobile-app-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/web/exolutus-website/</loc>
 		<lastmod>2016-07-29T18:00:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/exolutus-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/exolutus-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/app/kitab-club-mobile-app/</loc>
 		<lastmod>2016-07-29T18:31:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2016/07/kitab-club-mobile-app-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2016/07/kitab-club-mobile-app-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/web/people2people-website/</loc>
 		<lastmod>2017-01-07T04:36:46+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2017/01/people2people-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2017/01/people2people-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/logo/babaaldeals-logo-v1/</loc>
 		<lastmod>2018-02-10T21:20:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2018/02/babaaldeals-v1-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2018/02/babaaldeals-v1-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/web/kalakarita-website/</loc>
 		<lastmod>2018-02-11T03:49:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2018/02/kalakarita-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2018/02/kalakarita-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/web/index-furniture-nepal-website/</loc>
 		<lastmod>2018-03-09T20:29:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2018/03/indexfurniture-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2018/03/indexfurniture-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mohankhadka.com.np/portfolio/web/getit-website/</loc>
-		<lastmod>2018-05-02T01:34:02+00:00</lastmod>
+		<lastmod>2024-12-28T15:57:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mohankhadka.com.np/wp-content/uploads/2018/05/getit-1.jpg</image:loc>
+			<image:loc>https://mohankhadka.com.np/storage/2018/05/getit-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
